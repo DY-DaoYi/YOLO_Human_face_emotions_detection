@@ -11,7 +11,9 @@
 >
 > 本仓库**开源了系统的前端交互应用（App）源码及训练数据可视化模块**。
 >
-> **可视化模块说明**：系统内置了自动化分析逻辑，能够读取训练过程中的日志文件（results.csv），自动绘制 Loss 损失曲线、mAP 精度曲线和混淆矩阵。**这部分逻辑已完全开源**，即使不懂代码，也能直观地看到模型的训练效果，非常适合用于撰写论文时的图表生成。
+> **🔗 开源地址**：
+> *   **Gitee**：[点击访问](https://gitee.com/DY_DaoYi/YOLO_Human_face_emotions_detection)
+> *   **GitHub**：[点击访问](https://github.com/DY-DaoYi/YOLO_Human_face_emotions_detection)
 >
 > **🛒 核心模型与训练源码资源包 (Core Models & Training Codes) 包含：**
 > 1.  **核心训练代码**：包含 **train.py (单模型)** 和 **train_batch.py (批量实验)**，支持断点续训和自动批量大小（autobatch），训练完成后自动生成 GPU 耗时、成本估算和 mAP 评估报告。
@@ -20,8 +22,8 @@
 >     *   *说明：数据集本身是免费开源的。但由于国内网络环境下载困难，我在资源包中免费提供了已整理好的数据集压缩包，方便大家直接使用。*
 > 
 > **📥 立即获取资源包：**
-> *   🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWckpdsaQ==)（**9折优惠**）
-> *   🐟 **闲鱼**：[点击购买](https://h5.m.goofish.com/item?forceFlush=1&id=1033624423045&ut_sk=1.ZzmZVYNWVs0DAFaC%252Fl5T74nC_21407387_1774153500828.copy.detail.1033624423045.2206494217471)
+> *   🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWck5Zraw==)（**1.8折优惠**）
+> *   🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iS4bKNr?tk=TghJ50rNDBp)（**2折优惠**）
 
 ---
 
@@ -44,7 +46,7 @@
 >
 > | 哔哩哔哩 (Bilibili) | 抖音 (Douyin) | 小红书 (Xiaohongshu) | 快手 (Kuaishou) |
 > | :---: | :---: | :---: | :---: |
-> | [![Bilibili](https://img.shields.io/badge/Bilibili-演示视频-pink?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV12jAMzsEad/) | [![抖音](https://img.shields.io/badge/抖音-演示视频-black?style=for-the-badge&logo=tiktok)](https://v.douyin.com/BtVlCruEVPA/) | [![Xiaohongshu](https://img.shields.io/badge/小红书-演示视频-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/discovery/item/69bf66f0000000002202623a?source=webshare&xhsshare=pc_web&xsec_token=YBwyt35asWp8-0S3cGfcKbofi1Fx0NeFVsuxtc4oLsXgc=&xsec_source=pc_share) | [![Kuaishou](https://img.shields.io/badge/快手-演示视频-green?style=for-the-badge&logo=kuaishou)](https://www.kuaishou.com/f/X1RCF5XJfT2bbsD) |
+> | [![Bilibili](https://img.shields.io/badge/Bilibili-演示视频-pink?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1LfQUBZE4i/) | [![抖音](https://img.shields.io/badge/抖音-演示视频-black?style=for-the-badge&logo=tiktok)](https://v.douyin.com/0GHo9qVHCPc/) | [![Xiaohongshu](https://img.shields.io/badge/小红书-演示视频-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/discovery/item/69c3d936000000001a030e7f?source=webshare&xhsshare=pc_web&xsec_token=YBeKvnnbW_VKd4i5WOVLRhWPYfNjyBq-0BCihcx_2nRd4=&xsec_source=pc_share) | [![Kuaishou](https://img.shields.io/badge/快手-演示视频-green?style=for-the-badge&logo=kuaishou)](https://www.kuaishou.com/f/X-38LoHLZ2pQOz3E) |
 >
 
 ---
@@ -212,8 +214,8 @@ YOLO_Human_face_emotions_detection/
 > 3.  **（赠品）数据集**：整理好的 Ultralytics 开源数据集压缩包。
 >
 > **📥 立即获取资源包：**
-> *   🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWckpdsaQ==)（**9折优惠**）
-> *   🐟 **闲鱼**：[点击购买](https://h5.m.goofish.com/item?forceFlush=1&id=1033624423045&ut_sk=1.ZzmZVYNWVs0DAFaC%252Fl5T74nC_21407387_1774153500828.copy.detail.1033624423045.2206494217471)
+> *   🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWck5Zraw==)（**1.8折优惠**）
+> *   🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.iS4bKNr?tk=TghJ50rNDBp)（**2折优惠**）
 
 > ---
 > 
